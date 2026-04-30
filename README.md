@@ -232,6 +232,15 @@ Through this project:
 
 ---
 
+## ⚡ Key Highlights
+
+* Built an **AI agent that uses tools dynamically**
+* Implemented **conversation memory for context awareness**
+* Integrated **LLM (Gemini) with real-world APIs**
+* Designed using **n8n low-code automation workflows**
+
+---
+
 ## 👩‍💻 Author
 
 Lakshmi Varasri
